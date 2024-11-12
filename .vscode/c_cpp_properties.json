@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "cStandard": "c17",
+      "cppStandard": "c++20",
+      "intelliSenseMode": "msvc-x64",
+      "compileCommands": "C:\\Users\\Matth\\OneDrive\\Documents\\__Work__\\University\\Year 3\\CGP3018 (Graphics)\\Assessment 1\\Assessment_1\\.vscode\\compileCommands_Default.json",
+      "includePath": [
+        "${workspaceFolder}\\Intermediate\\**",
+        "${workspaceFolder}\\Source\\**"
+      ]
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\Matth\\OneDrive\\Documents\\__Work__\\University\\Year 3\\CGP3018 (Graphics)\\Assessment 1\\Assessment_1\\Source\\Assessment_1\\Assessment_1.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Matth\\OneDrive\\Documents\\__Work__\\University\\Year 3\\CGP3018 (Graphics)\\Assessment 1\\Assessment_1\\.vscode\\compileCommands_Assessment_1\\Assessment_1.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Matth\\OneDrive\\Documents\\__Work__\\University\\Year 3\\CGP3018 (Graphics)\\Assessment 1\\Assessment_1\\Source\\Assessment_1\\Assessment_1.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Matth\\OneDrive\\Documents\\__Work__\\University\\Year 3\\CGP3018 (Graphics)\\Assessment 1\\Assessment_1\\.vscode\\compileCommands_Assessment_1\\Assessment_1.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Matth\\OneDrive\\Documents\\__Work__\\University\\Year 3\\CGP3018 (Graphics)\\Assessment 1\\Assessment_1\\Source\\Assessment_1\\Assessment_1.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Matth\\OneDrive\\Documents\\__Work__\\University\\Year 3\\CGP3018 (Graphics)\\Assessment 1\\Assessment_1\\.vscode\\compileCommands_Assessment_1\\Assessment_1.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Matth\\OneDrive\\Documents\\__Work__\\University\\Year 3\\CGP3018 (Graphics)\\Assessment 1\\Assessment_1\\Source\\Assessment_1\\MyClass.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Matth\\OneDrive\\Documents\\__Work__\\University\\Year 3\\CGP3018 (Graphics)\\Assessment 1\\Assessment_1\\.vscode\\compileCommands_Assessment_1\\Assessment_1.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Matth\\OneDrive\\Documents\\__Work__\\University\\Year 3\\CGP3018 (Graphics)\\Assessment 1\\Assessment_1\\Source\\Assessment_1\\MyClass.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Matth\\OneDrive\\Documents\\__Work__\\University\\Year 3\\CGP3018 (Graphics)\\Assessment 1\\Assessment_1\\.vscode\\compileCommands_Assessment_1\\Assessment_1.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
